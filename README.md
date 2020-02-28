@@ -1,0 +1,1 @@
+Docs, examples, usefool links about development in git system. There are I am collect interesting articles and bokks list. f you want to fill up the list and offer something of your own, you are welcome!
