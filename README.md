@@ -1,1 +1,4 @@
-Docs, examples, usefool links about development in git system. There are I am collect interesting articles and bokks list. f you want to fill up the list and offer something of your own, you are welcome!
+Docs, examples, usefool links about development in git system (Git Workflow, Github Workflow methodology and others). There are I am collect interesting articles and books list. f you want to fill up the list and offer something of your own, you are welcome!
+
+# Content 
+- [Articles and books](articles-and-books.md) - Usefool articles and books about Git Workflow, Github Workflow and others methodologies.
